@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Babies day schedule</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="babies_schedule">Babies day schedule</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="shortMinute">min</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="cancel">cancel</string>
+    <string name="minutes_short">min.</string>
+    <string name="minutes">minutes</string>
+    <string name="minute">minute</string>
+    <string name="hours">hours</string>
+    <string name="hour">hour</string>
+    <string name="sleep">sleep</string>
+    <string name="eat">eat</string>
+    <string name="diaper">diaper</string>
+    <string name="times">times</string>
+    <string name="time">time</string>
+    <string name="poo">poo</string>
+    <string name="pee">pee</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

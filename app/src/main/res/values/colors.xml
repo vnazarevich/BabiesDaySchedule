@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#FFA287FF</color>
+    <color name="light_blue">#FF5AC7FF</color>
+    <color name="light_green">#FF96FF6F</color>
+    <color name="orange">#FEA800</color>
+    <color name="dark_gray">#838383</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="grey">#c5c4c4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_site_color">#ffa4a4a4</color>
+
+    <!-- Schedule widget -->
+    <color name="grilleColor">#ffa4a4a4</color>
+    <color name="text_color">#272727</color>
+    <color name="brown">#FF830A04</color>
+</resources>

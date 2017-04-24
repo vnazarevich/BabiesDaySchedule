@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:text="@string/diaper"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/title_size"
+        android:layout_marginTop="@dimen/top_margin"
+        android:textStyle="bold"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pee"
+        android:id="@+id/isPee"
+        android:layout_marginTop="45dp"
+        android:checked="true"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poo"
+        android:id="@+id/isPoo"
+        android:layout_below="@+id/isPee"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
